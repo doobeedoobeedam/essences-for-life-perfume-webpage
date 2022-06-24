@@ -1,0 +1,26 @@
+{
+  "name": "esssences-for-life-perfume-webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doobeedoobeedam/esssences-for-life-perfume-webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doobeedoobeedam/esssences-for-life-perfume-webpage/issues"
+  },
+  "homepage": "https://github.com/doobeedoobeedam/esssences-for-life-perfume-webpage#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  },
+  "dependencies": {
+    "flowbite": "^1.4.7"
+  }
+}
